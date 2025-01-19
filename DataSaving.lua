@@ -63,6 +63,7 @@ local g = {
 	"Memory",
 	"Video",
 	"CursorImage",
+	"MemStorageConnection",
 	"LanguageService"
 }
 
